@@ -1,0 +1,13 @@
+.todo-container {
+  height: 200px;
+  width: 100%;
+  background-color: aquamarine;
+  padding-top: 50px;
+}
+
+.todo-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
